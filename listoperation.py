@@ -7,7 +7,7 @@ print("First element:", my_list[0])
 print("Third element:", my_list[2])
 print("Last element:", my_list[-1])
 
-Add and Remove List Elements
+# Add and Remove List Elements
 print("Add and Remove List Elements")
 
 # Adding elements
